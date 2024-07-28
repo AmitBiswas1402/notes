@@ -6,7 +6,7 @@ const page = () => {
     <div>
       
       <div>
-        {/* <Button>Button</Button> */}
+        <Button>Button</Button>
       </div>
     </div>
   )
