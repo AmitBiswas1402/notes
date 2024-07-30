@@ -9,7 +9,6 @@ import {
     SheetTrigger,
 } from "@/components/ui/sheet"
 import { MenuIcon } from 'lucide-react'
-  
 
 function Sidebar() {
     const menuOptions = (
